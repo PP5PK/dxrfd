@@ -207,4 +207,4 @@ exit 0
 
 ## License
 
-Released under the **The Unlicense** License. See [`LICENSE`](LICENSE) for details.
+Released under the **GPL-3.0** License. See [`LICENSE`](LICENSE) for details.
