@@ -1,8 +1,7 @@
-Open Source G2 DSTAR Reflectors(XRF reflectors)
+Open Source G2 DSTAR Reflectors(XRF Reflectors)
 ==============================================
-Licensed under GPLv3. Please see LICENSE.md for licensing information.
 
-dxrfd is the software to use to create a D-Star reflector. It will run on any Linux box.
+DXRFD is the software to use to create a D-Star reflector. It will run on any Linux box.
 It communicates with dstar Gateways/repeaters and it also communicates with dvap,dvtool,... users.
 
 These instructions are based on using Dxrfd 3.08a, which includes additions from Bob/W6KD to secure the command port used to communicate with netcat.
@@ -204,4 +203,8 @@ exit 0
 
 #####################################################
 
+---
 
+## License
+
+Released under the **The Unlicense** License. See [`LICENSE`](LICENSE) for details.
